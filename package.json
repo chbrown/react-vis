@@ -1,5 +1,5 @@
 {
-  "name": "react-vis",
+  "name": "@chbrown/react-vis",
   "version": "1.7.9",
   "license": "MIT",
   "author": "Visualization Team <visualization@uber.com>",
